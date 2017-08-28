@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 5000;
 
 var client_id = '53061605254f4d0dabc30b955189a78a'; // Your client id
 var client_secret = '77b866a65fda4f60bb7347b4fe9d4710'; // Your secret
-var redirect_uri = 'http://localhost:8080/callback/'; // Your redirect uri
+var redirect_uri = 'https://boomboxxx.herokuapp.com/callback/'; // Your redirect uri
 
 /**
  * Generates a random string containing numbers and letters
